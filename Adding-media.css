@@ -1,0 +1,149 @@
+.teaser img {
+  border-radius: 5px;
+  display: block;
+  margin-bottom: 22px;
+  max-width: 15%;
+}
+header {
+	background-color: #191970;
+	margin-bottom: 0px;
+	padding-bottom: 35px;
+}
+.headpart {
+	font-family: Candara;
+}
+#data {
+	color: Aqua;
+	font-family: Candara;
+}
+#datum {
+	color: Aqua;
+	font-family: "Bahnschrift SemiBold";
+	margin-right: 10px;
+}
+input[type="submit"]{
+	text-align: center;
+	color: #191970;
+	margin-left: 40%;
+    width: 300px;
+	background-color: rgb(255,255,224);
+	border-color: rgb(255,255,224);
+	font-weight: bold;
+	border-width: 7px;
+	font-family: Candara;
+}
+#main {
+	margin-right: 2%;
+	word-spacing: 35px;
+	font-family: Candara;
+}
+.MM {
+	color: #FFFAFA;
+}
+.headpart {
+	color: #FFFAFA;
+}
+#headpart {
+	font-family: "Bahnschrift SemiBold" !important;
+	font-family: "Сalibri";
+	color: #FFA500;
+	margin-left: 122px;
+}
+#space {
+	height: 5px;
+	border-width: 0px;
+}
+.kinda {
+	height: auto;
+	width: 250px;
+	margin-left: 90px;
+	margin-right: 90px;
+	vertical-align: top;
+	vertical-align: bottom;
+	height: 280px;
+	width: auto;
+	border: groove;
+	border-color: #191970
+}
+#ASAP {
+	margin-left: 200px;
+	margin-right: 90px;
+}
+#Ed {
+	margin-right: 200px;
+	margin-left: 90px;
+}
+#One_Republic {
+	width: 
+}
+#photos {
+	margin: 0 auto;
+}
+.titles {
+	margin-left: 250px;
+	margin-right: 145px;
+	font-family: Candara;
+	font-weight: bold;
+	font-size: 23px;
+	color: #ffffff;
+	background-color: #191970;
+}
+#rap {
+	margin-left: 300px;
+}
+#pop {
+	margin-right: 75px;
+	margin-left: 190px;
+}
+section {
+	background-color: rgb(255,255,224);
+	padding-top: 35px;
+}
+.personalnames {
+	font-family: "Comic Sans MS","Bahnschrift SemiBold";
+	font-size: 23px;
+	font-weight: bold;
+}
+#AS_AP {
+	margin-left: 255px;
+	margin-right: 300px;
+}
+#One_Rep {
+	margin-right: 280px;
+}
+details {
+	display: inline;
+}
+#Rocky {
+	margin-left: 200px;
+	margin-right: 91px;
+}
+#Republic {
+	margin-left: 185px;
+	margin-right:90px;
+}
+#Edward {
+	margin-left:215px;
+}
+#bout_singers {
+	border-style:
+	
+}
+td {
+	width: 33%;
+	vertical-align: top;
+	text-align: left;
+	font-family: Candara;
+}
+#strs {
+	font-family: Candara;
+	text-transform: uppercase;
+	text-align: center;
+}
+#festival {
+	font-family: "Comic Sans MS";
+}
+hr {
+	border: none;
+}
+
